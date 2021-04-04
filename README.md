@@ -7,4 +7,3 @@ Planned output
 4. Bring above 3 steps in sync
 5. Containerize above all using Docker.
 6. Should be able to perform e2e tests, unit tests
-7. 
